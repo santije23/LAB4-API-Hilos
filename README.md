@@ -7,7 +7,7 @@
 
 ## (b) Documentación de todas las funciones desarrolladas en el código.
 
-
+## (c) Problemas presentados durante el desarrollo de la practica y sus soluciones.
 
 
 ## (d) Pruebas realizadas a los programas que verificaron su funcionalidad.
@@ -22,3 +22,7 @@ En la siguiente imagen se observa la ejecución del programa base y su resultado
 
 
 ## (f) Manifiesto de transparencia: En que puntos se apoyaron de la IA generativa.
+
+## (g) Al menos cinco conclusiones.
+
+## (h) Notebook de analisis.
