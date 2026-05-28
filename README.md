@@ -7,6 +7,20 @@
 
 ## (b) Documentación de todas las funciones desarrolladas en el código.
 
+## 2. Generador de Secuencia de Fibonacci
+El programa utiliza un hilo trabajador para calcular la secuencia de Fibonacci y almacenarla en un arreglo compartido reservado dinámicamente por el hilo principal.
+
+La comunicación entre el hilo principal y el hilo trabajador se realiza mediante una estructura **(`DatosFib`)** que contiene el valor de **`N`** y un puntero al arreglo compartido.
+
+El hilo principal utiliza **`pthread_join()`** para sincronizar la ejecución y garantizar que la secuencia haya sido calculada completamente antes de imprimir los resultados.
+
+El uso de memoria compartida evita copias innecesarias de datos y permite que el hilo trabajador escriba directamente en el arreglo que posteriormente será leído por el hilo principal.
+![wgrep](capturas/CodFibonacci1.png)
+![wgrep](capturas/CodFibonacci2.png)
+![wgrep](capturas/CodFibonacciResultado.png)
+
+
+
 ## (c) Problemas presentados durante el desarrollo de la practica y sus soluciones.
 
 
