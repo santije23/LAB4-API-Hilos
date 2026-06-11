@@ -69,7 +69,7 @@ En la siguiente imagen se observa la ejecución del programa fibonacci y como se
 
 ## (e) Un enlace a un video de 10 minutos donde se sustente el desarrollo.
 
-[Haz clic aquí para ver el video](https://youtu.be/CgZYEnMxKqE)
+[Haz clic aquí para ver el video](https://youtu.be/PkWYOBl8zXw)
 
 
 ## (f) Manifiesto de transparencia: En que puntos se apoyaron de la IA generativa.
