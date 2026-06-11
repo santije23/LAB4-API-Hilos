@@ -69,11 +69,11 @@ En la siguiente imagen se observa la ejecución del programa fibonacci y como se
 
 ## (e) Un enlace a un video de 10 minutos donde se sustente el desarrollo.
 
-[Haz clic aquí para ver el video](https://youtu.be/TeelQA6-_2Y)
+[Haz clic aquí para ver el video](https://youtu.be/CgZYEnMxKqE)
 
 
 ## (f) Manifiesto de transparencia: En que puntos se apoyaron de la IA generativa.
-
+Se utilizó para comprender algunos comandos para la generación de gráficas en python y para entender la diferencia que había en el resultado de pi en ciertos decimales, ya que, al parecer, cuando un proceso se divide en diferentes hilos y después se vuelve a unir el resultado, es posible que se presenten estas variaciones decimales.
 ## (g) Al menos cinco conclusiones.
 
 1. Fue posible generar correctamente la secuencia de Fibonacci utilizando un hilo trabajador.
@@ -87,3 +87,5 @@ En la siguiente imagen se observa la ejecución del programa fibonacci y como se
 5. El ejercicio permitió comprender los conceptos básicos de concurrencia y sincronización mediante hilos.
 
 ## (h) Notebook de analisis.
+
+[📓 Ver análisis](https://github.com/santije23/LAB4-API-Hilos/blob/main/analisis.ipynb)
